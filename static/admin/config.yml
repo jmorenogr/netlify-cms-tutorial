@@ -1,5 +1,9 @@
 backend:
-  name: test-repo
+  name: github
+  repo: jmorenogr/netlify-cms-tutorial
+
+
+
 media_folder: static/assets
 public_folder: /assets
 collections:
